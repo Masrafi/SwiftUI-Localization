@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Md Khorshed Alam on 7/9/24.
+  
+*/
+"welcome_message" = "লোকালাইজেশন অ্যাপে স্বাগতম";
+"footer_text" = "মন্তব্য করুন, লাইক করুন এবং সাবস্ক্রাইব করুন";
